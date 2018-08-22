@@ -1,0 +1,73 @@
+body {
+  background-color: #F8F8F8;
+}
+
+.account {
+  margin: 40px 0px;
+}
+
+#logo1{
+  display: block;
+  width: 30%;
+  margin-left: 10%;
+  border-top: 10px 20px;
+
+}
+
+.bottom-row {
+  width: 100%;
+  background-color: blue;
+  border-color: black;
+  height: 10px;
+}
+#logo {
+  width: 320px;
+}
+
+.form-wrap {
+  background-color: white;
+  border:
+  width: 20px;
+  background: #fff ;
+  border: 0.1px solid grey;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-10%, -50%);
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.login {
+  text-align: centre;
+  background: #3897f0;
+  border-color: #3897f0;
+}
+
+input {
+  width: 100%;
+  background: none;
+  border: 1px solid #ffff;
+  border-radius: 3px;
+  padding: 6px 5px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color:  solid black;
+
+}
+.lastcontainer{
+
+
+}
+ul li {
+display: inline;
+padding: 0px 5px;
+
+}
